@@ -1,3 +1,3 @@
--apple
--banana
--grapes
+- apple
+- banana
+- grapes
